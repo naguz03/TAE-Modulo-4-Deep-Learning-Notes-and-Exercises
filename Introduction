@@ -1,0 +1,8 @@
+
+Introduction
+
+Deep Learning has become one of the most influential areas of artificial intelligence, enabling breakthroughs in computer vision, natural language processing, robotics, healthcare, and autonomous systems. Understanding its mathematical foundations and practical implementations is essential for developing modern machine learning models.
+
+This repository contains my implementations and exercises completed throughout a Deep Learning course. Rather than relying on high-level libraries, the notebooks emphasize implementing core algorithms from scratch using Python, NumPy, and Matplotlib, providing a deeper understanding of how neural networks learn and make predictions.
+
+The repository covers fundamental topics, including mathematical foundations, regression, shallow and deep neural networks, activation functions, probabilistic models, loss functions, optimization techniques, and gradient-based learning algorithms. Each notebook combines theoretical concepts with practical implementations to reinforce the underlying principles of Deep Learning.
